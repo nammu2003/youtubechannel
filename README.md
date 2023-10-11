@@ -8,4 +8,4 @@ dashboard 4 public link https://public.tableau.com/views/youtube_16968343459640/
 
 story public link https://public.tableau.com/shared/KB7YC4RHK?:display_count=n&:origin=viz_share_link
 
-video demonstration link https://drive.google.com/file/d/1lm06TxKlr1gOTViJN8o7Tg5OqFCVWAXr/view?usp=drivesdk
+video demonstration linkk https://drive.google.com/file/d/1lm06TxKlr1gOTViJN8o7Tg5OqFCVWAXr/view?usp=drivesdk
